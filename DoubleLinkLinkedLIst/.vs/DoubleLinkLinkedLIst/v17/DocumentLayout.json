@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u043B\u0435\u0431\\source\\repos\\DoubleLinkLinkedLIst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD9705E-1B11-4C9F-94CA-15C7346A3EB0}|DoubleLinkLinkedLIst\\DoubleLinkLinkedLIst.vcxproj|C:\\Users\\\u0413\u043B\u0435\u0431\\source\\repos\\DoubleLinkLinkedLIst\\DoubleLinkLinkedLIst\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CD9705E-1B11-4C9F-94CA-15C7346A3EB0}|DoubleLinkLinkedLIst\\DoubleLinkLinkedLIst.vcxproj|solutionrelative:DoubleLinkLinkedLIst\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043B\u0435\u0431\\source\\repos\\DoubleLinkLinkedLIst\\DoubleLinkLinkedLIst\\Source.cpp",
+              "RelativeDocumentMoniker": "DoubleLinkLinkedLIst\\Source.cpp",
+              "ToolTip": "C:\\Users\\\u0413\u043B\u0435\u0431\\source\\repos\\DoubleLinkLinkedLIst\\DoubleLinkLinkedLIst\\Source.cpp",
+              "RelativeToolTip": "DoubleLinkLinkedLIst\\Source.cpp",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAEwNwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T00:18:00.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
