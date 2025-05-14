@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" initial-scale="1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form>
+        <div id="digits-input">
+            <img src="images/algebraic.png"><br>
+            a1 = <input type="text" id="a1" size="3px" class="correct"> b1 = <input type="text" id="b1" size="3px" class="correct"><br>
+            a2 = <input type="text" id="a2" size="3px" class="correct"> b2 = <input type="text" id="b2" size="3px" class="correct">
+        </div>
+        <div id="digits-form">
+            <input type="radio" id="1" name="choose-form" value="1" checked>Алгебраическое
+            <input type="radio" id="2" name="choose-form" value="2">Геометрическое
+            <input type="button" id="form-button" value="Показать">
+        </div>
+        <div id="digits-operations">
+            <div id="operations-text" class="operations-correct">Выберите необходимые чекбоксы</div>
+            <input type="checkbox" value="multiplication">Произведение<br>
+            <input type="checkbox" value="division">Частное<br>
+            <input type="checkbox" value="sum">Сумма<br>
+            <input type="checkbox" value="difference">Разность
+        </div>
+        <input id="calculate" type="button" value="Вычислить">
+        <input type="reset" value="Очистить">
+    </form>
+    Результаты:<br>
+    <div id="digits-output">
+        
+    </div>
+
+    <script src="./practice.js"></script>
+</body>
+</html>
