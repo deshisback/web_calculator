@@ -199,6 +199,7 @@ calculateBtn.addEventListener("click", calculator)
 for (const input of document.querySelectorAll("[type='text']")){
     input.addEventListener("click", () => setInputsCorrect(document.querySelectorAll("[type='text']")))
 }
+
 for (const box of document.querySelectorAll("[type='checkbox']")){
     box.addEventListener("click", setOperationsTextCorrect)
 }
